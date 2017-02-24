@@ -1,0 +1,5 @@
+public class ARTICULO{
+	private long atrCodigo = 0;
+	private String atrNomnre = "";
+	String atrDescripcion = "";
+}
