@@ -1,6 +1,7 @@
 public class Factura {
 	private long atrCodigo = -1;
 	private String atrCliente = "";
+	int atrIva = -1;
 	private Date atrFecha;
 	private int atrValor = -1;
 	private string atrConcepto = "";
